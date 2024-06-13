@@ -1,6 +1,6 @@
 --> Used Tkinter GUI module to create a simple Miles to Km converter
 
---> Tk() class, Layout - Grid(), Tools - Label, spinbox, Button, Congig properties, etc.., 
+--> Tk() class, Layout - Grid(), Tools - Label, spinbox, Button, Config properties, etc.., 
 
 miles_to_km.py :
 
